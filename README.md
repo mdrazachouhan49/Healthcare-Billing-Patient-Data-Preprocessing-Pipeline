@@ -29,9 +29,10 @@ The `Basic_Stats_2.ipynb` notebook executes the following technical workflow:
     - Performing **Inner Joins** to align patient identifiers with financial records.
 
 ## Tech Stack
-* **Language:** Python 3.x
-* **Libraries:** * `pandas`: Core data manipulation and aggregation.
-    * `numpy`: Numerical operations.
+* **Language:** Python 3.11.9
+* **Libraries:**
+  * `pandas`: Core data manipulation and aggregation.
+  * `numpy`: Numerical operations.
 
 ##  Data Schema
 The project processes two primary data structures:
